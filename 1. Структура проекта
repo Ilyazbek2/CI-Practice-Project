@@ -1,0 +1,6 @@
+ci_practice/
+│── head_file.py              # сама функция
+│── requirements.txt          # зависимости (если есть)
+│── README.md                 # описание проекта
+│── tests/
+│    └── test_head_file.py    # юнит-тесты
